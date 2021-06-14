@@ -1,0 +1,32 @@
+MVPS Hosts
+http://winhelp2002.mvps.org/hosts.zip
+
+Peter Lowe's AdServers List
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&useip=0.0.0.0&showintro=0&mimetype=plaintext
+
+Cameleon
+http://sysctl.org/cameleon/hosts.win
+
+Dan Pollock's hosts file
+https://someonewhocares.org/hosts/zero/hosts
+
+StevenBlack
+http://sbc.io/hosts/alternates/fakenews-gambling-porn/hosts
+
+WhatsappSpyBlocker
+https://nimityx.github.io/WhatsappSpyBlocker/hosts
+
+WindowsSpyBlocker
+https://5k8dcatetthxj7kvup6eer6tdruiw8wg.github.io/wsb/hosts
+
+WindowsSpyBlocker Extra
+https://5k8dcatetthxj7kvup6eer6tdruiw8wg.github.io/wsb/extra/hosts
+
+Wondershare Blocklist
+https://nimityx.github.io/blocklist/corporations/wondershare/hosts
+
+Bluestacks Blocklist
+https://nimityx.github.io/blocklist/corporations/bluestacks/hosts
+
+Personal List
+https://5k8dcatetthxj7kvup6eer6tdruiw8wg.github.io/f86ckbe3wxbtyawo6222xqq5c4jvknhj/um6vtp37unipa3kga7fcxgqt7fwysct4/hosts
