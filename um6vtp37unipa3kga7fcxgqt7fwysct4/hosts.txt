@@ -1,0 +1,27 @@
+# Hosts and rules
+# Hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
+https://block.energized.pro/unified/formats/hosts.txt
+https://block.energized.pro/porn/formats/hosts.txt
+https://block.energized.pro/extensions/regional/formats/domains.txt
+https://dbl.oisd.nl/
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&useip=0.0.0.0&showintro=0&mimetype=plaintext
+https://winhelp2002.mvps.org/hosts.txt
+https://someonewhocares.org/hosts/zero/hosts
+# Rules
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
+https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
+https://raw.githubusercontent.com/Nimityx/multipurpose-rules/main/rules.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
+# IPs
+https://block.energized.pro/extensions/ips/formats/list.txt
+https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
+https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+https://feodotracker.abuse.ch/downloads/ipblocklist_aggressive.txt
+https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
+https://sslbl.abuse.ch/blacklist/sslipblacklist_aggressive.txt
